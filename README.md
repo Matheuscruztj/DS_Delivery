@@ -1,9 +1,9 @@
 Tecnologias utilizadas:
 
  - Spring Boot
-  -   PostgresSQL
-  -   ReactJS
-  -   React Native
+ -   PostgresSQL
+ -   ReactJS
+  
 
 Hospedagem:
 

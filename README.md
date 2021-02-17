@@ -1,3 +1,5 @@
+Sistema 'teste' de delivery totalmente online com escolha de produtos, localização de entrega e exibição simples do carrinho.
+
 Tecnologias utilizadas:
 
  - Spring Boot
